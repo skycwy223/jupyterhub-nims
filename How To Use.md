@@ -66,11 +66,38 @@ Step 3는 간단한 설문조사입니다.
 
 ## 주피터 노트북 사용법
 
-위의 1~4 과정을 거쳐 로그인을 하게 되면 디렉토리 리스트가 보이게 된다.
+위의 [기본적인 사용법](https://github.com/skycwy223/jupyterhub-nims/blob/master/How%20To%20Use.md#%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EC%82%AC%EC%9A%A9%EB%B2%95)
+ 1~4 과정을 거쳐 로그인을 하게 되면 디렉토리 리스트가 보이게 된다.
+
+<img width="626" alt="2018-05-19 6 24 35" src="https://user-images.githubusercontent.com/1378925/40267102-f52abc06-5b91-11e8-935f-6e20bc925b66.png">
 
 #### 새로운 파이썬 파일 만들기
 
 오른쪽 상단에 있는 'New' 버튼 클릭 -> 'Python3' 선택
+
+<img width="626" alt="2018-05-19 9 32 54" src="https://user-images.githubusercontent.com/1378925/40270013-159ea766-5bc1-11e8-8361-e923c694f311.png">
+
+웹 브라우저의 새 탭에서 Untitled란 이름으로 주피터 노트북이 실행된다.
+
+<img width="626" alt="2018-05-19 9 33 18" src="https://user-images.githubusercontent.com/1378925/40270024-3e056eba-5bc1-11e8-9be3-4319b72a7d3f.png">
+
+이렇게 노트북이 새로 만들어지면 원래의 홈 화면에는 다음과 같이 새로 만들어진 노트북이 표시된다. 이때 현재 가동 중인 노트북은 녹색 아이콘으로 표시되며 오른쪽에 녹색으로 Running이라는 글자가 표시된다.
+
+노트북은 셀(cell)이라는 네모 칸들로 구성된다. 방금 만들어진 노트북에는 하나의 셀만 표시되어 있는데 이 셀에 파이썬 코드를 입력할 수 있다. 우선 다음과 같은 코드를 입력해보자.
+
+~~~
+print("Hello")
+~~~
+
+코드를 입력한 후에 + 키를 누르면 현재 셀이 실행되며 결과가 출력된다.(단축키 : Shift + Enter) 또한, 다음 셀이 만들어지고 포커스는 다음 셀로 넘어간다. 즉, 이미 실행된 셀은 더 이상 녹색으로 보이지 않는다. 실행된 셀의 프롬프트에는 실행 순서를 나타내는 번호가 붙는다.
+
+만일 키만 누르면 다음 줄로 넘어가기만 하고 코드가 실행되지는 않는다.
+
+<img width="626" alt="2018-05-19 9 33 40" src="https://user-images.githubusercontent.com/1378925/40270096-6a9c88f4-5bc2-11e8-81d8-3074480b7ee9.png">
+
+해당 파일의 변경 사항에 대해 저장하고 싶을 때는 상단의 '저장' 버튼을 클릭한다.
+
+<img width="626" alt="2018-05-19 9 34 39" src="https://user-images.githubusercontent.com/1378925/40270098-78bd94d2-5bc2-11e8-9ef3-6f26cf9427a3.png">
 
 ## 서비스 스펙
 

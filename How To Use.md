@@ -12,7 +12,7 @@
 
 2. 'Sign in with Github' 버튼 클릭하여 Github 계정으로 로그인  
 (Github 계정이 없는 경우, 계정 생성하여야 합니다.)  
-밑에 [Github 가입하기](2) 참조
+밑에 [Github 가입하기](https://github.com/skycwy223/jupyterhub-nims/blob/master/How%20To%20Use.md#github-%EA%B0%80%EC%9E%85%ED%95%98%EA%B8%B0) 참조
 
 <img width="352" alt="2018-05-19 5 49 06" src="https://user-images.githubusercontent.com/1378925/40266844-385d1ef6-5b8d-11e8-92e6-75c19768b57e.png">
 

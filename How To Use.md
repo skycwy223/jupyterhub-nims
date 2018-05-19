@@ -16,8 +16,17 @@
 
 <img width="352" alt="2018-05-19 5 49 06" src="https://user-images.githubusercontent.com/1378925/40266844-385d1ef6-5b8d-11e8-92e6-75c19768b57e.png">
 
-3. 'Start My Server' 버튼 클릭
-4. 이후엔 일반적인 주피터 노트북 사용과 동일합니다.
+3. 'Authorize jupyternims' 버튼 클릭
+
+<img width="352" alt="2018-05-14 4 00 33" src="https://user-images.githubusercontent.com/1378925/40267037-f843b0d8-5b90-11e8-9a5a-b213c8fcd004.png">
+
+4. 'Start My Server' 버튼 클릭
+
+<img width="626" alt="2018-05-19 6 23 00" src="https://user-images.githubusercontent.com/1378925/40267093-bd5b9444-5b91-11e8-9ec7-1e8c9f589b73.png">
+
+5. 이후엔 일반적인 주피터 노트북 사용법과 동일합니다.
+
+<img width="626" alt="2018-05-19 6 24 35" src="https://user-images.githubusercontent.com/1378925/40267102-f52abc06-5b91-11e8-935f-6e20bc925b66.png">
 
 ## Github 가입하기
 

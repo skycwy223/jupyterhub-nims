@@ -7,10 +7,53 @@
 ## 기본적인 사용법
 
 1. [jupyter.nims.re.kr](https://jupyter.nims.re.kr) 사이트 접속
+
+<img width="626" alt="2018-05-19 5 48 52" src="https://user-images.githubusercontent.com/1378925/40266834-1749d542-5b8d-11e8-80ae-7a40b898f3a8.png">
+
 2. 'Sign in with Github' 버튼 클릭하여 Github 계정으로 로그인  
-(Github 계정이 없는 경우, 계정 생성하여야 합니다.)
+(Github 계정이 없는 경우, 계정 생성하여야 합니다.)  
+밑에 [Github 가입하기](2) 참조
+
+<img width="352" alt="2018-05-19 5 49 06" src="https://user-images.githubusercontent.com/1378925/40266844-385d1ef6-5b8d-11e8-92e6-75c19768b57e.png">
+
 3. 'Start My Server' 버튼 클릭
 4. 이후엔 일반적인 주피터 노트북 사용과 동일합니다.
+
+## Github 가입하기
+
+Github 가입은 일반적인 사이트에서 회원가입하는 것과 비슷합니다.
+
+[https://github.com](https://github.com) 사이트 접속
+
+![](https://user-images.githubusercontent.com/1378925/40266497-fb452794-5b86-11e8-92c9-5aa99682b418.png)
+
+사용자 이름과 이메일 그리고 비밀번호를 입력하면 가입이 가능합니다.
+
+입력한 뒤에 Sign up 버튼을 누르시면 아래와 같은 화면이 나옵니다.
+
+저희는 개인이 사용할 것이므로 "Choose your personal plan"에 기본 선택되어 있는 Free로 선택을 합니다.
+
+그 후 Continue 버튼을 눌러 다음 스텝을 진행합니다.
+
+![join_step2](https://user-images.githubusercontent.com/1378925/40266731-5a586832-5b8b-11e8-9a10-8de9ff2a6632.png)
+
+Step 3는 간단한 설문조사입니다.
+
+귀찮으신 경우 "skip this step"을 통해 넘어가셔도 무방합니다.
+
+![join_step3](https://user-images.githubusercontent.com/1378925/40266736-8bcd69e4-5b8b-11e8-8130-768c45693cea.png)
+
+여기까지 완료하셨다면 다음과 같은 화면이 나올 것입니다.
+
+![sign up submit](https://user-images.githubusercontent.com/1378925/40266766-d896020e-5b8b-11e8-8672-34571a458074.png)
+
+이제 가입할때 사용하셨던 이메일을 사용해 인증을 해주셔야 합니다.
+
+가입할 때 사용하셨던 이메일에 접속하여 Github로부터 온 메일을 클릭, 메일 안에 있는 링크를 클릭하시면 인증이 완료됩니다.
+
+그리고 제대로 링크를 클릭하셨다면 다음과 같은 이메일 인증이 완료된 화면이 보이게 됩니다.
+
+![sign_up_complete](https://user-images.githubusercontent.com/1378925/40266785-24702272-5b8c-11e8-8135-77bb2d035e54.png)
 
 ## 주피터 노트북 사용법
 
